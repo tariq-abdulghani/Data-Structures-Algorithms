@@ -1,13 +1,12 @@
 package abdulghani.tariq.bubble_sort;
 
+import abdulghani.tariq.models.Order;
+
 public class BubbleSortMain {
 
     public static void main(String[] args) {
-	// write your code here
-//        System.out.println("hello bubble sort");
         int[] intArray = {9, 1,4,50, 2, 45, -9};
-        BubbleSort bubbleSort = new BubbleSort();
-        intArray = bubbleSort.sort(intArray);
+        intArray = BubbleSort.sort(intArray, Order.ASC);
 
         for (int i: intArray
              ) {
