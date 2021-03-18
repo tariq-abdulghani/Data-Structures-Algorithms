@@ -22,5 +22,6 @@
 >Most sorting algorithms rely on the idea of splitting the array
 > into two regions sorted and unsorted and with each iteration
 > we are supposed to decrease the unsorted and increase the sorted region.
-> 
+
+* ### Bubble Sort O(n2)
 
