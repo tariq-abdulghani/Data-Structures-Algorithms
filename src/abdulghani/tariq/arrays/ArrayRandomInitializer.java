@@ -1,4 +1,4 @@
-package abdulghani.tariq;
+package abdulghani.tariq.arrays;
 
 import java.util.Random;
 

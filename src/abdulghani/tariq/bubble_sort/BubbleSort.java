@@ -1,6 +1,8 @@
-package abdulghani.tariq;
+package abdulghani.tariq.bubble_sort;
 
-public class BubbleSort implements SortingAlgorithm<Integer>{
+import abdulghani.tariq.bubble_sort.SortingAlgorithm;
+
+public class BubbleSort implements SortingAlgorithm<Integer> {
 
     @Override
     public Integer[] sort(Integer[] unsorted) {
