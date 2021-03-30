@@ -41,4 +41,9 @@
 // decrement unsorted partition
 // do it again until last unsorted index == 0
 ```
+* ### Insertion Sort O(n2):
+```java
+
+```
+
 
