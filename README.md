@@ -18,10 +18,27 @@
 > if you will go through the array element by element ypu make
 > the operation of O(n)
 
-## Sorting Algorithms/
+## Sorting Algorithms:
 >Most sorting algorithms rely on the idea of splitting the array
 > into two regions sorted and unsorted and with each iteration
 > we are supposed to decrease the unsorted and increase the sorted region.
 
-* ### Bubble Sort O(n2)
+> **stable vs unstable sort algorithms??**
+
+* ### Bubble Sort O(n2):
+```java
+// set last unsorted index to be the last element index
+// compare each two consequent elements in the array swap when max is found
+// decrement unsorted index
+// do it until unsorted index == 0
+```
+* ### Selection Sort O(n2):
+```java
+// set last unsorted index to be the last element index
+// find max in unsorted partition
+    // compare elements in unsorted part get max of them
+// set max at last unsorted index
+// decrement unsorted partition
+// do it again until last unsorted index == 0
+```
 
