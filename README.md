@@ -43,7 +43,9 @@
 ```
 * ### Insertion Sort O(n2):
 ```java
-
+// we insert an element from unsorted part into sorted part
+// based on its value compared to values in the sorted part
+// we insert it before or after closest value.
 ```
 
 
