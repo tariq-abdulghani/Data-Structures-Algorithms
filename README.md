@@ -1,9 +1,8 @@
 # Data Structure And Algorithms With Java
-> just a simple review of common data structures,
-> 
-> and algorithms with java
+> just a simple review of common data structures, and algorithms with java.
 >
-## Big O Notation/
+> 
+## Big O Notation:
 > Imagine that we need to evaluate the performance of an algorithm
 > one way it to calculate its execution time but execution time depends on
 > hardware also, so when hardware changes we report different performance.
@@ -13,7 +12,7 @@
 > how many steps it requires achieving the task
 > and this is the **Big O Notation O(n)**
 > 
-## Arrays/
+## Arrays:
 > if you know the index most arrays operations will have O(1)
 > if you will go through the array element by element ypu make
 > the operation of O(n)
