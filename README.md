@@ -46,5 +46,9 @@
 // based on its value compared to values in the sorted part
 // we insert it before or after closest value.
 ```
+* ### Merge Sort O(n log n):
+```java
+// is divide and conquer algorithm.
+```
 
 
